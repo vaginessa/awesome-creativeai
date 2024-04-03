@@ -42,6 +42,8 @@ AI is the science and engineering of making intelligent machines, especially int
 * [Fear-and-Loathing-experiment](https://github.com/graphific/Fear-and-Loathing-experiment) - This model allows for deep dreaming in videos. Train the model to "hallucinate" objects in each frame of a video. 
 * [Bots Burgers](https://github.com/somaticapi/botsburgers) - This model creates burger names using wit and puns. 
 
+-----  
+
 
 <a name="video-demos" />
 ## Video Demos
@@ -54,14 +56,17 @@ AI is the science and engineering of making intelligent machines, especially int
 * [John Searle: "Consciousness in Artificial Intelligence"](https://www.youtube.com/watch?v=rHKwIYsPXLg) - John Searle is the Slusser Professor of Philosophy at the University of California, Berkeley. His Talk at Google is focused on the philosophy of mind and the potential for consciousness in artificial intelligence.
 * [WADE Pre-Alpha: Artificial intelligence that does everything!](https://www.youtube.com/watch?v=wqdhiWltjcU) - MAKO is a multifunctional software program capable of opening programs, typing anything you desire, writing reports on anything, it employs advanced user interface and voice input, it manages almost everything in your life, especially technology matters.
 
+-----  
+
 
 <a name="blog-links" />
-## Links to Blogs
-* [Kurzweil - Accelerating Intelligence](http://www.kurzweilai.net/blog)
-* [Singularity Weblog](https://www.singularityweblog.com/blog)
-* [33rd Square](http://www.33rdsquare.com)
-* [MIRI Blog](https://intelligence.org/blog)
-* [Artificial Intelligence Blog](http://artent.net/)
+## Links to Blogs  
+
++ [Kurzweil - Accelerating Intelligence](http://www.kurzweilai.net/blog)
++ [Singularity Weblog](https://www.singularityweblog.com/blog)  
++ [33rd Square](http://www.33rdsquare.com)  
++ [MIRI Blog](https://intelligence.org/blog)  
++ [Artificial Intelligence Blog](http://artent.net/)
 
 
 <a name="contributions" />
